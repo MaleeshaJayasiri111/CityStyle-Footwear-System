@@ -1,0 +1,5 @@
+--- SHOE SHOP INVENTORY REPORT ---
+
+ID    | Model           | Brand      | Category   | Size  | Color      | Stock
+--------------------------------------------------------------------------------
+1     | Air Max         | Nike       | sneakers   | 27    | Black      | 22   
